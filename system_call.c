@@ -12,9 +12,12 @@
 #include <stdio.h>
 
 /**
- * 
- *
- *
+ * Le programme ecrit "processus 1" sur le terminal
+ * Le programme attend pendant 10 secondes
+ * Le programme ecrit "processus 3" sur le terminal
+ * Le programme attend pendant 5 secondes
+ * Le programme ecrit "processus 5" sur le terminal
+ * Le programme ecrit "termine" sur le terminal
  *
  * @return     0 
  */
